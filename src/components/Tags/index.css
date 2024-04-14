@@ -1,0 +1,20 @@
+li {
+  list-style-type: none;
+}
+
+.tags-button {
+  border: 1px #f3aa4e solid;
+  background-color: transparent;
+  color: #f1f5f9;
+  height: 40px;
+  width: 100px;
+  padding: 10px;
+  border-radius: 30px;
+  margin: 5px;
+  cursor: pointer;
+  outline: none;
+}
+
+.active-background {
+  background-color: #f3aa4e;
+}
